@@ -5,7 +5,7 @@
 
 ## Download / How to Play
 
-1. Download the latest version of `Ultimate_Motherload.swf` from this GitHub repository (link about or see "Releases").
+1. Download the latest version of `Ultimate_Motherload.swf` from this GitHub repository (link above or see "Releases").
 2. Open the `.swf` file using a Flash player such as [Ruffle](https://ruffle.rs/).
 3. Play Ultimate Motherload!
 
