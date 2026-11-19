@@ -1,5 +1,5 @@
 # Ultimate Motherload
-## Download
+## Download the Latest Release
 
 ### [⬇ Download Ultimate Motherload](https://github.com/jeremiah855/Ultimate_Motherload/releases/latest/download/Ultimate_Motherload.swf)
 
