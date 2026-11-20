@@ -11,7 +11,7 @@
 
 ## About
 
-This mod is build on top of the Motherload_SRE mod, built by Speedox12. It adds a new zoomed out view, new items from each shop category, a new phase to the bossfight, cheats, and many QOL changes:
+This mod is build on top of the Motherload_SRE mod, built by Speedox12. It adds a new zoomed out view, 60 FPS smooth gameplay, new items from each shop category, a new phase to the bossfight, cheats, and many QOL changes:
 
 ## New Items
 
